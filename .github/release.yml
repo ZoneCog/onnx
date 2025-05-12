@@ -9,7 +9,7 @@ changelog:
         - "topic: deprecation"
     - title: Spec and Operator
       labels:
-        - "topic: spec"
+        - "module: spec"
         - "topic: spec clarification"
         - "topic: operator"
         - "module: schema"
