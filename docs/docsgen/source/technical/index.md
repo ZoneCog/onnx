@@ -14,6 +14,9 @@ deeper than the code documentation.
 ```{toctree}
 :maxdepth: 2
 
+architecture
+detailed-architecture
+runtime-architecture
 float8
 int4
 float4
