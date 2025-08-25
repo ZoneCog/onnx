@@ -12,4 +12,5 @@ sphinx-copybutton
 sphinx-exec-code
 sphinx-gallery
 sphinx-tabs
+sphinxcontrib-mermaid
 sphinx

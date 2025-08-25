@@ -42,6 +42,7 @@ extensions = [
     "sphinx_copybutton",
     "sphinx_exec_code",
     "sphinx_tabs.tabs",
+    "sphinxcontrib.mermaid",
     "sphinx.ext.autodoc",
     "sphinx.ext.autosummary",
     "sphinx.ext.coverage",
